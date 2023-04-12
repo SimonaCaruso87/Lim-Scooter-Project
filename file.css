@@ -1,0 +1,82 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+#sfondo-trasparente{
+    background-color: rgba(23, 24, 24, 0.7);
+    width: 850px;
+    height: 550px;
+    margin: auto;
+    border-radius: 2%;
+}
+
+header > .container{
+    text-align: center;
+    margin: 5% 0% 0% 0%;
+}
+
+nav > .container{
+    text-align: center;
+    background-color:rgb(23, 255, 23);
+    padding: 1%;
+    width: 660px;
+    margin: auto;   
+}
+
+.bottone{
+   font-size: 10px;
+} 
+
+.logo{
+    width: 20%;
+    margin: 5% 0% 0% 0%;
+}
+
+.logo-text{
+    font-size: 20px;
+    color:rgb(23, 255, 23);
+    font-family: 'Poppins', sans-serif;
+    margin: 0% 0% 1% 0%;
+}
+
+section {
+    margin: 2% 0% 0% 10%;
+}
+   
+.charterer{
+   display: inline;
+   color: white;
+   font-family: 'Poppins', sans-serif;  
+}
+.text-charterer{
+   color:white;
+   font-family:'Sofia Sans Condensed', sans-serif;
+   margin: 5px;
+}
+
+section > .container-gino{
+    background-color: rgb(221, 255, 128);
+    width: 200px;
+    height: 18px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 1% 0% 1% 0%;
+}
+
+section > .container-mike{
+    background-color:rgb(55, 219, 55);
+    width: 300px;
+    height: 18px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 1% 0% 1% 0%;
+}
+section > .container-fede{
+    background-color:rgb(235, 91, 81);
+    width: 50px;
+    height: 18px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 1% 0% 1% 0%;
+}
